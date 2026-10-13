@@ -1,0 +1,7 @@
+Order Id,Order Date,Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub Category,Product Id,Cost Price,List Price,Quantity,Discount Percent
+1,2022-01-10,Standard Class,Consumer,United States,New York,New York,00501,East,Furniture,Chairs,P001,60,100,2,10
+2,2023-01-10,unknown,Consumer,United States,New York,New York,00501,East,Furniture,Chairs,P001,70,120,3,5
+3,2022-02-15,Second Class,Corporate,United States,Los Angeles,California,90001,West,Technology,Phones,P002,110,100,1,0
+4,2023-02-15,Standard Class,Corporate,United States,Los Angeles,California,90001,West,Technology,Phones,P002,80,150,2,10
+5,2022-03-20,Standard Class,Consumer,United States,Austin,Texas,73301,South,Office Supplies,Paper,P003,0,0,1,0
+6,2023-03-20,Not Available,Consumer,United States,Austin,Texas,73301,South,Office Supplies,Paper,P003,10,25,5,20
