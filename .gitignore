@@ -1,0 +1,5 @@
+orders.csv
+cleaned_orders.csv
+.venv/
+__pycache__/
+.env
