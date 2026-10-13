@@ -1,5 +1,6 @@
-orders.csv
-cleaned_orders.csv
 .venv/
 __pycache__/
+*.pyc
+orders.csv
+cleaned_orders.csv
 .env
